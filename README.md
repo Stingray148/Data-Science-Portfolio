@@ -7,22 +7,21 @@ Welcome to my data visualization portfolio! Here, you'll find a collection of pr
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
-To learn more about me, you can visit my [personal website](your_web_address), my [github](https://github.com/YOURACCOUNT), or read my [CV](Images/CV.pdf).
+To learn more about me, you can visit my [Linked In](https://www.linkedin.com/in/raymon-reyes-b51746276/), my [github](https://github.com/Stingray148), or read my [CV](Images/CV.pdf).
 
 
 ---
 
-## Project 1 Title
+## The Remix
 
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj1.png"  alt="1" >
+            <img src="./Images/remix.png"  alt="1" >
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            Briefly describe the project, the motivation, and/or the goal.
-            This project explores [brief description of the project]. I was inspired by [refer to inspiration]. The goal was to [objective of the project]. ... <a href="./Project 1/README.md">Learn more</a>
+            In this project first we had to find a graph in the wild. I chose a graph that compared the strike attempts and accuracy of different UFC fighters. The first thing we had to do was replicate the graph as honestly as we could without sparring any detail. The second thing we had to do was remix the graph in our own creative way. I created a 3-D graph that compared strikes,accuracy, and wins of each fighter. I have provided the code and the data to be able to replicate that graph. It's also interactive making it cool and fun to play with. <a href="./Project 1/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Python, Pandas, Plotly, Canva</i>
             </p>
@@ -30,17 +29,16 @@ To learn more about me, you can visit my [personal website](your_web_address), m
     </tr> 
 </table>
 
-## Project 2 Title
+## Internet Accessibility Infographic
 
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj2.png"  alt="2" >
+            <img src="./Images/Africa V2_CrazyStuff.jpg"  alt="2" >
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            Briefly describe Project 2<br><br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...<a href="./Project 2/README.md">Learn more</a>
+            In this project we had to develop an infographic. I wanted to bring attention to internet accessibility because we live in an increasingly technological world but there are many places where most people have little to no access to internet at all and that can affect things like education and income. First I got my data from the world development indicators then produced the initial graph. I then worked in inkscape and canva to make it look more artistic and add some additional text. .<a href="./Project 2/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Python, Pandas, Matplotlib</i>
             </p>
@@ -48,16 +46,15 @@ To learn more about me, you can visit my [personal website](your_web_address), m
     </tr> 
 </table>
 
-## Project 3 Title
+## U.S Home Price Dashboard
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj3.png" alt="3" >
+            <img src="./Images/newplot.png" alt="3" >
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            Briefly describe Project 3 <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum... <a href="./Project 3/README.md">Learn more</a>
+            In this project we had to create an interactive dashboard. I wanted to focus on housing prices in the United States. I got data from zillow and was able to make a dashboard that showed average housing prices over the last 25 years and was also able to add tabs that would show average prices for different size homes depending on how many bedrooms the home had.<a href="./Project 3/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Canva, Recraft</i>
             </p>
