@@ -1,13 +1,11 @@
 # Data Visualization Portfolio
 
 ## About Me
-Use this space to introduce yourself to an audience (think about your target audience). Tell them about who you are, your skills, your strengths, your interests, and career aspirations.
-
-Welcome to my data visualization portfolio! Here, you'll find a collection of projects showcasing my skills in data analysis and visualization. I am passionate about turning data into meaningful insights and compelling visuals.
+Hi! I’m Ray Reyes, an Economics major and Data Science minor with a passion for turning data into clear, compelling visuals. This portfolio showcases projects that blend analytical rigor with creative design, ranging from interactive dashboards to infographics and data remixes. These projects combine my personal passions and my academic interest. I’m skilled in Python, Pandas, Plotly, Dash, and tools like Inkscape and Canva.
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
-To learn more about me, you can visit my [Linked In](https://www.linkedin.com/in/raymon-reyes-b51746276/), my [github](https://github.com/Stingray148), or read my [CV](Images/CV.pdf).
+To learn more about me, you can visit my [Linked In](https://www.linkedin.com/in/raymon-reyes-b51746276/), my [github](https://github.com/Stingray148), or read my [Resume](Images/Raymon Reyes Resume.pdf).
 
 
 ---
