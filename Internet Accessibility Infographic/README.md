@@ -3,7 +3,7 @@
 In this folder, include all the files you used to create your visualization (.ipynb, .csv, whatever) as well as a hi-res or pdf version of your final visualizations. 
 
 In this document:
- - Include a large image of your visualization ![Internet Accessibility Infographic](./Images/Africa V2_CrazyStuff.jpg)
+ - Include a large image of your visualization ![Internet Accessibility Infographic](./Images/Africa%20V2_CrazyStuff.jpg)
  - I sourced data from the World Bank’s World Development Indicators, focusing on internet access by country.
  - To create this project, I first built the map showing percentage data using Python, then used Inkscape and Canva to add text and enhance its visual appeal.
  - In this project, I developed an infographic to highlight the issue of internet accessibility. We live in an increasingly digital world, yet there are still many regions where the majority of people have limited or no access to the internet. This digital divide can have serious implications for education, economic opportunity, and overall quality of life.
