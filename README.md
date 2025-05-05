@@ -5,7 +5,7 @@ Hi! I’m Ray Reyes, an Economics major and Data Science minor with a passion fo
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
-To learn more about me, you can visit my [Linked In](https://www.linkedin.com/in/raymon-reyes-b51746276/), my [github](https://github.com/Stingray148), or read my [Resume](Images/Raymon Reyes Resume.jpg).
+To learn more about me, you can visit my [Linked In](https://www.linkedin.com/in/raymon-reyes-b51746276/), my [github](https://github.com/Stingray148), or read my [Resume](./Images/Raymon%20Reyes%20Resume.jpg).
 
 
 ---
