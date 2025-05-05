@@ -19,7 +19,7 @@ To learn more about me, you can visit my [Linked In](https://www.linkedin.com/in
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            In this project I found a graph in the wild that I thought I could improve on. I chose a graph that compared the strike attempts and accuracy of different UFC fighters. I then started to  remix the graph in my own creative way. I created a 3-D graph that compared strikes,accuracy, and wins of each fighter. I have provided the code and the data to be able to replicate that graph. It's also interactive making it cool and fun to play with. <a href="./UFC Fighter Remix/README.md">Learn more</a>
+            In this project I found a graph in the wild that I thought I could improve on. I chose a graph that compared the strike attempts and accuracy of different UFC fighters. I then started to remix the graph in my own creative way. I created a 3-D graph that compared strikes,accuracy, and wins of each fighter. I have provided the code and the data to be able to replicate that graph. It's also interactive making it cool and fun to play with. <a href="./UFC Fighter Remix/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Python, Pandas, Plotly, Matplotlib</i>
             </p>
@@ -38,7 +38,7 @@ To learn more about me, you can visit my [Linked In](https://www.linkedin.com/in
             <p>
             In this project I developed an infographic. I wanted to bring attention to internet accessibility because we live in an increasingly technological world but there are many places where most people have little to no access to the internet at all and that can affect things like education and income. First I got my data from the world development indicators then produced the initial graph. I then worked in inkscape and canva to make it look more artistic and add some additional text.<a href="./Internet Accessibility Infographic/README.md">Learn more</a>
             <br><br>
-            <i>Tools used: Python, CanvaM, Inkscape</i>
+            <i>Tools used: Python, Canva, Inkscape</i>
             </p>
         </td>
     </tr> 
