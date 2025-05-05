@@ -1,7 +1,7 @@
 # Data Visualization Portfolio
 
 ## About Me
-Hi! I’m Ray Reyes, an Economics major and Data Science minor with a passion for turning data into clear, compelling visuals. This portfolio showcases projects that blend analytical rigor with creative design, ranging from interactive dashboards to infographics and data remixes. These projects combine my personal passions and my academic interest. I’m skilled in Python, Pandas, Plotly, Dash, and tools like Inkscape and Canva.
+Hi! I’m Ray Reyes, an Economics major and Data Science minor with a passion for turning data into clear, compelling visuals. This portfolio showcases projects that blend analytical rigor with creative design, ranging from interactive dashboards to infographics and data remixes. These projects combine my personal passions and my academic interest. I’m skilled in Python, Pandas, Plotly, Dash, and tools like Inkscape and Canva
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
