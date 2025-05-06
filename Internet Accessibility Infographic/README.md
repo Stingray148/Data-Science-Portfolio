@@ -1,6 +1,6 @@
 # Internet Accessibility Infographic
 
-In this document:
+For this project:
 
  - I sourced data from the World Bank’s World Development Indicators, focusing on internet access by country.
 

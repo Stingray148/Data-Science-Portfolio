@@ -1,7 +1,7 @@
 # U.S Home Price Dashboard
 
 
-In this document:
+For this project:
 
  - The data source for this dashboard came from Zillow.
 
